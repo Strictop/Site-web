@@ -1,30 +1,30 @@
-# Hello website!
+# Bonjour le site !
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+Il s'agit d'un projet de démarrage HTML de base sur lequel vous pouvez construire comme bon vous semble. Pas besoin de sauvegarder. Pendant que vous développez votre site, vos modifications se produiront ✨ immédiatement dans la fenêtre de prévisualisation. Sur la gauche, vous verrez les fichiers qui composent votre site, y compris HTML, JavaScript et CSS. Vous pouvez télécharger des éléments tels que des images ou de l'audio dans "Assets". Le reste dépend de vous et de votre imagination. 🦄
 
-## What's in this project?
+## Qu'y a-t-il dans ce projet ?
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+← `README.md` : C'est ce fichier, où vous pouvez dire aux gens ce que fait votre site Web cool et comment vous l'avez construit.
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+← `index.html` : il s'agit de la page Web principale de votre site. Le HTML définit la structure et le contenu de la page à l'aide de _elements_. Vous verrez des références dans le HTML aux fichiers JS et CSS. Essayez de cliquer sur l'image au centre de la page !
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+← `style.css` : les fichiers CSS ajoutent des règles de style à votre contenu. Le CSS applique des styles aux éléments de votre page HTML. Les règles de style font également bouger l'image lorsque vous cliquez dessus.
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
+← `script.js` : Si vous vous sentez à l'aise, vous pouvez ajouter de l'interactivité à votre site avec JavaScript. Le code du fichier JavaScript s'exécute lorsque la page se charge et lorsque le visiteur clique sur le bouton que vous pouvez ajouter ci-dessous.
 
-Open each file and check out the comments (in gray) for more info.
+Ouvrez chaque fichier et consultez les commentaires (en gris) pour plus d'informations.
 
-## Try this next 🏗️
+## Essayez ceci ensuite 🏗️
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+Jetez un œil à `TODO.md` pour les prochaines étapes que vous pouvez essayer sur votre nouveau site !
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+___Vous voulez une version minimale de ce projet pour créer votre propre site Web ? Découvrez [Site Web vierge](https://glitch.com/edit/#!/remix/glitch-blank-website) !___
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-## You built this with Glitch!
+## Vous avez construit ceci avec Glitch !
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+[Glitch](https://glitch.com) est une communauté conviviale où des millions de personnes se réunissent pour créer des applications Web et des sites Web.
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+- Besoin d'aide? [Consultez notre centre d'aide](https://help.glitch.com/) pour obtenir des réponses aux questions courantes.
+- Prêt à le rendre officiel ? [Devenez un membre payant de Glitch](https://glitch.com/pricing) pour booster votre application avec un partage privé, plus de stockage et de mémoire, des domaines et plus encore.
