@@ -1,0 +1,17 @@
+{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none
+}
+
+body {
+    fontfamily: 'Poppins';
+}
+
+header {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(image/landscape.jpg);
+    background-size: cover;
+}
