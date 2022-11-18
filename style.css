@@ -1,5 +1,8 @@
 body {margin: 0px;
-   font-size: 13px; 
-   background: url(image/landscape.jpg);}
+   font-size: 13px;
+   background: url(image/landscape.jpg);
+/*    background: url(https://cdn.glitch.global/db084c7d-b46b-4b45-ae8c-118cdedbc15c/landscape.jpg?v=1668767575968); */
+}
+   
 
 * {outline: none; -webkit-box-sizing: border-box;}
